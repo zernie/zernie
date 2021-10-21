@@ -3,9 +3,9 @@
 I'm a FullStack developer with 5.5 years of experience.
 
 - 🔭 I’m currently working on <a href="https://getbonfire.xyz">getbonfire.xyz</a>
-- 💼 My resume is here: <a href="https://zernie.com/Resume.pdf">zernie.com/Resume.pdf</>
+- 💼 My resume is [here](https://zernie.com/Resume.pdf)
 - 🌱 I’m open to remote jobs and visa sponsorships
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/zernie/">linkedin.com/in/zernie</>
+- 📫 You can reach me on me [LinkedIn](https://www.linkedin.com/in/zernie)
 
 **Languages and Tools:**
 
