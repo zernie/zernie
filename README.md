@@ -2,9 +2,9 @@
 
 I'm a FullStack developer with 5.5 years of experience.
 
-- 🔭 I’m currently working on <a href="https://getbonfire.xyz">getbonfire.xyz</a>
+- 🔭 I’m currently working on <a href="https://archive.com">https://archive.com</a>
 - 💼 My resume is [here](https://zernie.com/Resume.pdf)
-- 🌱 I’m open to remote jobs and visa sponsorships
+- 🌱 I’m open to Senior Developer roles that provide visa sponsorships
 - 📫 You can reach me on me [LinkedIn](https://www.linkedin.com/in/zernie)
 
 **Languages and Tools:**
