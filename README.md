@@ -4,7 +4,7 @@ I'm a FullStack developer with 6 years of experience.
 
 - 🔭 I’m currently working on <a href="https://archive.com">https://archive.com</a> as a Staff Engineer
 - 💼 My resume is [here](https://zernie.com/Resume.pdf)
-- 🌱 I’m open to Senior Developer roles that provide visa sponsorships to the USA
+- 🌱 I’m open to Senior Developer and above roles that provide a visa sponsorship to the USA
 - 📫 You can reach me on me [LinkedIn](https://www.linkedin.com/in/zernie)
 
 **Languages and Tools:**
