@@ -1,11 +1,11 @@
 ### Hi there, I'm Ernie!
 
-I'm a FullStack developer with 6 years of experience.
+I'm a FullStack developer with 6 years of experience. My work has brought in millions in investments to the companies I've worked for.
 
-- 🔭 I’m currently working on <a href="https://archive.com">https://archive.com</a> as a Staff Engineer
+- 🔭 I’m working on <a href="https://archive.com">https://archive.com</a> as a Staff Engineer
 - 💼 My resume is [here](https://zernie.com/Resume.pdf)
-- 🌱 I’m open to Senior Developer and above roles that provide a visa sponsorship to the USA
-- 📫 You can reach me on me [LinkedIn](https://www.linkedin.com/in/zernie)
+- 🌱 I’m open to Senior and above roles that provide a visa sponsorship to the USA
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/zernie)
 
 **Languages and Tools:**
 
