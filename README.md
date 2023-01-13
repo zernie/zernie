@@ -1,6 +1,6 @@
 ### Hi there, I'm Ernie!
 
-I'm a FullStack developer with 6 years of experience. My work has brought in millions in investments to the companies I've worked for.
+I'm a FullStack developer and a product manager with 7 years of experience. My work has brought in millions in investments to the companies I've worked for.
 
 - 🔭 I’m working on <a href="https://archive.com">https://archive.com</a> as a Staff Engineer
 - 💼 My resume is [here](https://zernie.com/Resume.pdf)
