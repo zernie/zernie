@@ -1,8 +1,7 @@
 ### Hi there, I'm Ernie!
 
-I'm a FullStack developer and a product manager with 9 years of experience. My work has brought in millions in investments to the companies I've worked for.
+I'm an AI-Native Full Stack Engineer & Technical Leader, with 9 years of experience. My work has brought in millions in investments to the companies I've worked for.
 
-- 🔭 I’m working on <a href="https://archive.com">https://archive.com</a> as a Staff Engineer
 - 💼 My resume is [here](https://zernie.com/Resume.pdf)
 - 🌱 I’m open to Senior and above roles that provide a visa sponsorship to the USA
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/zernie)
