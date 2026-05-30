@@ -2,7 +2,7 @@
 
 I'm an AI-Native Full Stack Engineer & Technical Leader. My work has brought in millions in investments to the companies I've worked for.
 
-- 💼 My resume is [here](https://zernie.com/Resume.pdf)
+- 💼 My resume is [here](https://zernie.com?_utm_source=github)
 - 🌱 I’m open to the roles that provide a visa sponsorship to the USA
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/zernie)
 
